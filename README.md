@@ -6,19 +6,25 @@ ____________________________
 
 - 🔭 Working as Mobile Developer at DuoTalk
 - 🚀 Integrant of the FinDev Development team
-- 🌱 Flutter/Dart
+- ☕ Javascript/Typescript, ReactJs/Native, Flutter/Dart.
 - 💬 Programming, Tech, Music, Movies, F1, Basketball, eSports
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloLopes19&count_private=true&show_icons=true&theme=ayu-mirage)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloLopes19&count_private=true&layout=compact&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+____________________________
+
+<div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=PabloLopes19&count_private=true&show_icons=true&theme=ayu-mirage" alt="Userdata"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloLopes19&count_private=true&layout=compact&show_icons=true&theme=ayu-mirage" alt="Userdata"/>
+</div>
+
+____________________________
 
 ### Techs
 <div>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Linkedin"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Linkedin"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Linkedin"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Linkedin"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Linkedin"/>       
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJs"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="RN"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>       
 </div>
 
 ### Medias
@@ -28,9 +34,9 @@ ____________________________
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
   <a href="https://www.instagram.com/pablolopes19/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Linkedin"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://twitter.com/PabloLopes1919" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Linkedin"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
